@@ -1,5 +1,10 @@
 # 💫 About Me:
-Hello! I'm Sameeksha R, an Electronics and Communication Engineering student at GSSSIETW, Mysuru. I have a strong interest in IoT, Embedded Systems, and VLSI, and I'm currently exploring opportunities in both core electronics and the IT domain.<br>
+🌱 Currently working on: A GPS-based Smart Bus Display System using Arduino
+🤝 Looking to collaborate on: Projects involving IoT, microcontrollers, or web-based dashboards
+🌟 Currently learning: Frontend development, ESP32, and Git workflows
+💬 Ask me about: Smart tech solutions, project ideas, or embedded programming
+⚡ Fun fact: Though from an ECE background, I enjoy coding and tech integration just as much as building circuits
+📫 Reach me at: sameekshar1702@gmail.com .<br>
 
 
 ## 🌐 Socials:
