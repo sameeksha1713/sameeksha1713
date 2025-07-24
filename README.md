@@ -1,9 +1,14 @@
 # 💫 About Me:
 🌱 Currently working on: A GPS-based Smart Bus Display System using Arduino
+
 🤝 Looking to collaborate on: Projects involving IoT, microcontrollers, or web-based dashboards
+
 🌟 Currently learning: Frontend development, ESP32, and Git workflows
+
 💬 Ask me about: Smart tech solutions, project ideas, or embedded programming
+
 ⚡ Fun fact: Though from an ECE background, I enjoy coding and tech integration just as much as building circuits
+
 📫 Reach me at: sameekshar1702@gmail.com .<br>
 
 
